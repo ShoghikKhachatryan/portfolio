@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+
+.flexbox-container {
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ img {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 40%;
+}
+
+footer ul {
+    margin-top: 0;
+}
+
+footer li {
+    display: inline;
+}
+
+.contact {
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+
+.fa-stack.fa-2x {
+    color: #5a5a5a;
+}
+
