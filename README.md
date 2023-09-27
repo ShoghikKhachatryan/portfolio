@@ -1,6 +1,6 @@
-### portfolio - personal webpage
+### portfolio - personal web page
 A simple web page to present myself.
-![wage screenshot](./images/portfolio_page.png)
+![web page screenshot](./images/portfolio_page.png)
 
 #### Table of contents
 * [Technologies](#technologies)
